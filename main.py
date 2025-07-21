@@ -14,6 +14,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "Ciao! Inviami un messaggio vocale o un videomessaggio e lo trascriverò per te!"
         "\nRispondi ad una trascrizione con /cancella per eliminarla."
         "\n\nCreato da @diddieffe"
+        "\nCodice sorgente: https://github.com/DDF95/VoiceTranscriberBot"
     )
 
 
@@ -22,6 +23,7 @@ async def help(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "Invia un messaggio vocale o un videomessaggio e lo trascriverò per te!"
         "\nRispondi ad una trascrizione con /cancella per eliminarla."
         "\n\nCreato da @diddieffe"
+        "\nCodice sorgente: https://github.com/DDF95/VoiceTranscriberBot"
     )
 
 
